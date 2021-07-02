@@ -10,7 +10,7 @@
 
 通过网页端的解析，配合本地的下载工具进行下载。
 
-[官网](https://www.kinh.cc/)：https://www.kinh.cc/
+[官网](https://www.kinh.cc/): https://www.kinh.cc/
 
 [百度网盘解析地址](http://pan.akcsss.cn/): http://pan.akcsss.cn/
 
@@ -18,11 +18,13 @@
 
 ## 网页生成直链
 
-这个比较复杂，具体来说，是通过一个油猴插件和一个chrome扩展实现在百度网盘的网页端生成直链。
+这种方法好像不能配合IDM，只能aria2c和Motrix，文件大小不超过一个500MB的话，可以试试这种方法。
 
-chrome扩展需要将crx改后缀为zip然后解压，通过chrome的“加载解压的插件”安装。
+使用起来比较复杂，具体地说，是通过一个油猴插件和一个chrome扩展实现在百度网盘的网页端生成直链。
 
-[教程网址](https://www.baiduyun.wiki/zh-cn/windows.html):https://www.baiduyun.wiki/zh-cn/windows.html
+chrome扩展需要将crx改后缀为zip然后解压，通过chrome的“加载已解压的扩展程序”安装。
+
+[教程网址](https://www.baiduyun.wiki/zh-cn/windows.html): https://www.baiduyun.wiki/zh-cn/windows.html
 
 ## 参考资料
 
