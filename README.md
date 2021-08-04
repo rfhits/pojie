@@ -5,3 +5,7 @@
 ## 下载
 
 [百度网盘加速下载](https://github.com/rfhits/pojie/blob/main/BaiduPan.md)
+
+## 音乐
+
+[落雪音乐](https://github.com/lyswhut/lx-music-desktop)
